@@ -4,7 +4,7 @@ This repository is created as part of my learning and sharing knowledge.
 
 ![enter image description here](https://th.bing.com/th/id/OIP.P75taA2mjVX9KR0sx2mREAHaD4?pid=Api&rs=1)
 
-In this project, I've touched upon most of the basic Python coding concepts one should know to begin their Data Science journey with Python as Scripting Language.
+In this repository, I've touched upon most of the basic Python coding concepts one should know to begin their Data Science journey with Python as Scripting Language.
 
 I've tried to touch base on the concepts like:
 
