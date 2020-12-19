@@ -1,6 +1,6 @@
 # Python Data Science Starters
 
-This is project is created as part of my learning and sharing knowledge.
+This repository is created as part of my learning and sharing knowledge.
 
 ![enter image description here](https://th.bing.com/th/id/OIP.P75taA2mjVX9KR0sx2mREAHaD4?pid=Api&rs=1)
 
